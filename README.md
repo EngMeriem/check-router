@@ -1,3 +1,19 @@
+Objective
+----------------
+
+In this checkpoint, we are going to use the movie app we have created in the previous checkpoint and afterward, we will use the router library to route our views.
+
+
+Instructions
+-------------------
+
+    1-We will add a description and the trailer link (embed video link) to the object movie.
+    2-Every time I click on a movie card, it will take me to the movie description and trailer page.
+    3-In the description page, I can navigate back to the home page.
+
+
+----------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
